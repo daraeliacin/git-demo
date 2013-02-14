@@ -1,2 +1,1 @@
-Puts "hello
-"
+Puts "hello"
